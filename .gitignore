@@ -1,0 +1,9 @@
+.idea/
+target/
+
+*.iml
+
+# Angular gitignore files
+src/main/resources/static/
+src/main/resources/frontend/file-supplier/node_modules
+src/main/resources/frontend/file-supplier/.angular
